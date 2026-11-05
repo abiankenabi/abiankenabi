@@ -28,4 +28,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/abiankenabi">abiankenabi</a></i></p>
+<p align="center"><i>☆ From <a href="https://github.com/abiankenabi">abiankenabi</a></i></p>
